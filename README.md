@@ -1,4 +1,4 @@
-# Monoprice MP Voxel
+# Monoprice MP Voxel (Flashforge Adventurer 3)
 
 - [ ] Compare mainboard part number (p/n) to part number: 30000759002
 - [ ] Compare firmware version to version: 1.0.5-1.4 or greater
